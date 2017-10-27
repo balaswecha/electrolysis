@@ -7,12 +7,12 @@
     "url": "https://github.com/phetsims/electrolysis.git"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-jshint": "~0.6.4",
-    "grunt-eslint": "^17.3.1",
-    "grunt-requirejs": "~0.4.0",
-    "requirejs": "~2.1.8",
-    "uglify-js": "~2.4.0"
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-eslint": "*",
+    "grunt-requirejs": "*",
+    "requirejs": "*",
+    "uglify-js": "*"
   },
   "phet": {
     "requirejsNamespace": "ELECTROLYSIS"
