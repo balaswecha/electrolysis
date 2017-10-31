@@ -61,3 +61,5 @@
     "branch": "master"
   }
 }
+
+//You are vulnerable to hijacking attacks.Please add SHA keys in .gitignore
